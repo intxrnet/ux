@@ -119,7 +119,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={ibmPlex.variable}>
-      <body className="flex flex-col min-h-screen overflow-hidden">
+      <body className="flex flex-col min-h-screen">
         <Header />
         <div className="h-16" aria-hidden="true"></div>
         <main className="flex-1 flex flex-col">{children}</main>
