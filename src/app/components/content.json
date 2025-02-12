@@ -1,0 +1,33 @@
+{
+  "name": "ux",
+  "items": [
+    {
+      "text": "colors",
+      "description": "find your color palette"
+    },
+    {
+      "text": "fonts",
+      "description": "explore typeface combinations"
+    },
+    {
+      "text": "font inspect",
+      "description": "explore typeface properties"
+    },
+    {
+      "text": "icons",
+      "description": "explore icon packs combinations"
+    },
+    {
+      "text": "svg blobs",
+      "description": "fluid shapes"
+    },
+    {
+      "text": "svg hero patterns",
+      "description": "repeatable vector designs"
+    },
+    {
+      "text": "svg textures",
+      "description": "static textures and grains"
+    }
+  ]
+}
